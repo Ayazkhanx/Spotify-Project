@@ -1,1 +1,1 @@
-# Minoe css project
+# Minor css project
